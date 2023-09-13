@@ -1,0 +1,13 @@
+Nivell1: 
+https://www.restapitutorial.com/
+https://youtu.be/ltA-mIYyxhY
+
+
+Nivell2:
+https://www.baeldung.com/spring-request-param
+https://www.baeldung.com/spring-requestparam-vs-pathvariable
+
+
+Nivell3:
+https://youtu.be/7E60ZttwIpY
+https://youtu.be/9I9U5-WUrDo
